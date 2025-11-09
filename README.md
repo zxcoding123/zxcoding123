@@ -46,13 +46,6 @@ I'm a dedicated **Full-Stack Developer** with a strong focus on building clean, 
 
 ---
 
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/zxcoding123/zxcoding123/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 📫 Contact
 - **GitHub:** https://github.com/zxcoding123  
 - **Email:** *ahmadaquino.2002@gmail.com*  
