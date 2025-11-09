@@ -34,6 +34,7 @@ I'm a dedicated **Full-Stack Developer** with a strong focus on building clean, 
 <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask">
 <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase">
 <img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase">
+  <img src="https://img.shields.io/badge/mysql?style=for-the-badge&logo=mysql">
 </p>
 
 ---
