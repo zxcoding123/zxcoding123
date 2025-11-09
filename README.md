@@ -37,6 +37,15 @@ I'm a dedicated **Full-Stack Developer** with a strong focus on building clean, 
 <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
 </p>
 
+**AI / LLM Tools**
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai">
+<img src="https://img.shields.io/badge/Grok-000?style=for-the-badge&logo=x">
+<img src="https://img.shields.io/badge/DeepSeek-000?style=for-the-badge&logo=deepseek">
+<img src="https://img.shields.io/badge/Lovable-000?style=for-the-badge&logo=heart">
+</p>
+
+
 ---
 
 ### 📊 GitHub Statistics
