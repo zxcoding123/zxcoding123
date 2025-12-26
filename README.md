@@ -49,9 +49,10 @@ I'm a dedicated **Full-Stack Developer** with a strong focus on building clean, 
 ---
 
 ### 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxcoding123&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcoding123&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zxcoding123&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcoding123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
