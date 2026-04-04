@@ -1,69 +1,63 @@
-<!-- Typing Header -->
 <p align="center">
   <a href="https://github.com/zxcoding123">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Ahmad+%F0%9F%91%8B;Frontend+%2F+Full-Stack+Developer;Building+Clean+%26+Reliable+Solutions;Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+%F0%9F%91%8B;AI+Automation+Architect;Flutter+%2F+Full-Stack+Developer;Building+Scalable+Digital+Ecosystems" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a dedicated **Full-Stack Developer** with a strong focus on building clean, maintainable, and user-centric digital experiences. I enjoy solving problems, optimizing workflows, and developing scalable systems from initial concept to production-ready deployment.
+I am an **AI Automation Architect & Full-Stack Developer** focused on building intelligent systems and high-performance mobile applications. I specialize in architectural orchestration—using AI to accelerate development while ensuring local-first reliability and scalable cloud backends.
+
+* 🚀 **Current Focus:** Developing high-performance mobile solutions with local-first persistence.
+* ⚡ **Philosophy:** Designing automated, scalable workflows that minimize manual overhead.
+* 🏋️ **Beyond Coding:** Mastering technical bodyweight movements and physical optimization.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend**
+**Mobile Development (Local-First Expert)**
 <p>
-<img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
-<img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap">
-<img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss">
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js">
-<img src="https://img.shields.io/badge/Webflow-000?style=for-the-badge&logo=webflow">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Riverpod-000?style=for-the-badge&logo=flutter&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Isar_Database-4433FF?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
-**Backend & Databases**
+**AI & Automation Tools**
 <p>
-<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django">
-<img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask">
-<img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase">
-<img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase">
-<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge&logo=cursor&logoColor=white">
+<img src="https://img.shields.io/badge/Lovable-E01E5A?style=for-the-badge&logo=heart&logoColor=white">
 </p>
 
-**AI / LLM Tools**
+**Web & Cloud Backend**
 <p>
-<img src="https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai">
-<img src="https://img.shields.io/badge/Grok-000?style=for-the-badge&logo=x">
-<img src="https://img.shields.io/badge/DeepSeek-000?style=for-the-badge&logo=deepseek">
-<img src="https://img.shields.io/badge/Lovable-000?style=for-the-badge&logo=heart">
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </p>
-
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zxcoding123&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcoding123&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zxcoding123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcoding123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Contact
-- **GitHub:** https://github.com/zxcoding123  
-- **Email:** *ahmadaquino.2002@gmail.com*  
-- **Portfolio / Website:** *https://ahmad-new-portfolio.vercel.app/*  
+### 📫 Connect with Me
+- 🌐 **Portfolio:** [ahmad-new-portfolio.vercel.app](https://ahmad-new-portfolio.vercel.app/)
+- 📧 **Email:** [ahmadaquino.2002@gmail.com](mailto:ahmadaquino.2002@gmail.com)
+- 🤝 **Open for:** AI-driven SaaS, high-performance Flutter builds, and automation consulting.
 
----
-
-**Thanks for visiting!**  
-Feel free to explore my work and reach out for collaborations.
+<p align="right"><i>Always optimizing.</i></p>
