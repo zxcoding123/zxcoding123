@@ -25,6 +25,7 @@ I'm a dedicated **Full-Stack Developer** with a strong focus on building clean, 
 <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js">
 <img src="https://img.shields.io/badge/Webflow-000?style=for-the-badge&logo=webflow">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
 
 **Backend & Databases**
