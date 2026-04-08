@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am an **AI Automation Architect & Full-Stack Developer**. I build high-performance systems that combine modern frontend aesthetics with automated, scalable backends. Whether it's a local-first Flutter POS or an AI-driven lead generation engine, I focus on architectural orchestration over manual repetition.
+I am an **AI Automation Architect & Full-Stack Developer**. I build high-performance systems that combine modern frontend aesthetics with automated, scalable backends. Whether it's a web application, mobile application or an AI-driven lead generation engine, I focus on architectural orchestration over manual repetition.
 
 * 🚀 **Active Project:** Scaling **FoCi**, an ambient productivity ecosystem.
 * ☕ **Local Tech:** Architecting a custom Coffee Shop POS with **Flutter + Isar**.
@@ -67,6 +67,6 @@ I am an **AI Automation Architect & Full-Stack Developer**. I build high-perform
 ### 📫 Connect with Me
 - 🌐 **Portfolio:** [ahmad-new-portfolio.vercel.app](https://ahmad-new-portfolio.vercel.app/)
 - 📧 **Email:** [ahmadaquino.2002@gmail.com](mailto:ahmadaquino.2002@gmail.com)
-- 🤝 **Open for:** High-fidelity Flutter builds, automated SaaS pipelines, and backend system design.
+- 🤝 **Open for:** Full-stack web development, High-fidelity mobile application Flutter builds, automated SaaS pipelines, and backend system design.
 
 <p align="right"><i>Always optimizing.</i></p>
