@@ -55,6 +55,24 @@ I am an **AI Automation Architect & Full-Stack Developer**. I build high-perform
 <img src="https://img.shields.io/badge/NocoDB-3E33FB?style=for-the-badge&logo=nocodb&logoColor=white">
 </p>
 
+**Analytics, Tracking & Attribution**
+<p>
+<img src="https://img.shields.io/badge/Meta_Pixel-0081FB?style=for-the-badge&logo=meta&logoColor=white">
+<img src="https://img.shields.io/badge/TikTok_Pixel-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+<img src="https://img.shields.io/badge/Umami-000000?style=for-the-badge&logo=umami&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white">
+<img src="https://img.shields.io/badge/PostHog-F54E00?style=for-the-badge&logo=posthog&logoColor=white">
+</p>
+
+**Deployment & Infrastructure**
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+</p>
+
 ---
 
 ### 📊 GitHub Statistics
