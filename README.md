@@ -9,6 +9,8 @@
 ### 👨‍💻 About Me
 I am an **AI Automation Architect & Full-Stack Developer**. I build high-performance systems that combine modern frontend aesthetics with automated, scalable backends. Whether it's a web application, mobile application or an AI-driven lead generation engine, I focus on architectural orchestration over manual repetition.
 
+
+* 👨‍💻 **Founder:** Actively working on **Roastly**, **Quinas** and **FreeLens**
 * 🚀 **Active Project:** Scaling **FoCi**, an ambient productivity ecosystem.
 * ☕ **Local Tech:** Architecting a custom Coffee Shop POS with **Flutter + Isar**.
 * ⚡ **Philosophy:** Leveraging AI (Claude/Gemini) and low-code (n8n) to build hyper-efficient workflows.
