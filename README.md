@@ -21,7 +21,6 @@ Day to day, I work on **performance marketing infrastructure**: server-side conv
 
 - 🚀 **Building:** **FoCi**, an ambient productivity ecosystem
 - 🧪 **Founder / side projects:** **Roastly**, **Quinas**, **FreeLens**
-- ☕ **Shipping locally:** an offline-first coffee shop POS in **Flutter + Isar**
 - ⚡ **Approach:** Claude/Gemini/Codex + n8n for orchestration; write code only where it earns its keep
 
 ---
@@ -32,8 +31,8 @@ Day to day, I work on **performance marketing infrastructure**: server-side conv
 |---|---|
 | **AI & Automation** | n8n workflows, AI SDR agents, Slack bots, scraping pipelines, MCP servers |
 | **Tracking & Attribution** | Meta CAPI / TikTok Events API, server-side value pipelines, call tracking + DNI, GTM |
-| **Full-Stack Web** | Next.js, Laravel, Django APIs, Supabase-backed dashboards |
-| **Mobile** | Flutter apps with offline-first local storage (Isar / Hive) |
+| **Full-Stack Web** | SvelteKit, Next.js, Node/Express, Laravel, Django APIs, Postgres/Supabase-backed apps |
+| **Mobile** | Flutter apps with offline-first local storage (Isar / Hive) and LAN sync |
 
 ---
 
@@ -46,40 +45,60 @@ Day to day, I work on **performance marketing infrastructure**: server-side conv
 | [**Quinas**](https://quinas-official.vercel.app/) | Modern web system built around clean, scalable UI/UX architecture | Svelte 5 · Tailwind CSS · Vite |
 | [**FreeLens**](https://freelens.vercel.app/) | Full-stack web platform with a typed SvelteKit frontend and Postgres-backed API | SvelteKit · Vite · TypeScript · Tailwind CSS · shadcn-svelte · Lucide · jQuery · Node.js · Express · PostgreSQL |
 
-<!-- Replace links with repo URLs and fill in the placeholders. -->
-
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend & Mobile**
+**Languages**
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+**Frontend & Mobile**
+<p>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/shadcn-000?style=for-the-badge&logo=shadcnui&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
 **Backend & Automation**
 <p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white">
+</p>
+
+**AI**
+<p>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
 </p>
 
 **Data & Persistence**
 <p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/NocoDB-1348BA?style=for-the-badge&logo=nocodb&logoColor=white">
 <img src="https://img.shields.io/badge/Isar-4433FF?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=dart&logoColor=black">
@@ -95,12 +114,17 @@ Day to day, I work on **performance marketing infrastructure**: server-side conv
 <img src="https://img.shields.io/badge/Umami-000?style=for-the-badge&logo=umami&logoColor=white">
 </p>
 
-**Deployment & Infra**
+**Deployment, Infra & Tools**
 <p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudways-2C39BD?style=for-the-badge&logo=icloud&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 ---
@@ -111,10 +135,12 @@ Day to day, I work on **performance marketing infrastructure**: server-side conv
   <img height="165" src="https://streak-stats.demolab.com?user=zxcoding123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxcoding123/zxcoding123/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/zxcoding123/zxcoding123/output/snake.svg" alt="Contribution snake">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxcoding123/zxcoding123/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/zxcoding123/zxcoding123/output/snake.svg" alt="Contribution snake">
+  </picture>
+</p>
 
 ---
 
