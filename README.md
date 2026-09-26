@@ -1,95 +1,127 @@
 <p align="center">
   <a href="https://github.com/zxcoding123">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+%F0%9F%91%8B;AI+Automation+Architect;Flutter+%2F+Full-Stack+Developer;Systems+Orchestrator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+%F0%9F%91%8B;AI+Automation+Architect;Full-Stack+%2B+Flutter+Developer;Tracking+%26+Attribution+Engineer" alt="Hi, I'm Ahmad — AI Automation Architect, Full-Stack + Flutter Developer" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://ahmad-new-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:ahmadaquino.2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Based_in-Manila%2C_PH_(UTC%2B8)-0038A8?style=flat-square" alt="Manila, PH">
+  <img src="https://komarev.com/ghpvc/?username=zxcoding123&style=flat-square&color=blueviolet&label=Profile+views" alt="Profile views">
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I am an **AI Automation Architect & Full-Stack Developer**. I build high-performance systems that combine modern frontend aesthetics with automated, scalable backends. Whether it's a web application, mobile application or an AI-driven lead generation engine, I focus on architectural orchestration over manual repetition.
+### 👨‍💻 About
 
+I build systems that replace manual work: automated backends, AI-driven pipelines, and the frontends and mobile apps that sit on top of them.
 
-* 👨‍💻 **Founder:** Actively working on **Roastly**, **Quinas** and **FreeLens**
-* 🚀 **Active Project:** Scaling **FoCi**, an ambient productivity ecosystem.
-* ☕ **Local Tech:** Architecting a custom Coffee Shop POS with **Flutter + Isar**.
-* ⚡ **Philosophy:** Leveraging AI (Claude/Gemini) and low-code (n8n) to build hyper-efficient workflows.
+Day to day, I work on **performance marketing infrastructure**: server-side conversion tracking, call attribution, lead-scoring integrations, and n8n automations that run in production across multiple brands.
+
+- 🚀 **Building:** **FoCi**, an ambient productivity ecosystem
+- 🧪 **Founder / side projects:** **Roastly**, **Quinas**, **FreeLens**
+- ☕ **Shipping locally:** an offline-first coffee shop POS in **Flutter + Isar**
+- ⚡ **Approach:** Claude/Gemini + n8n for orchestration; write code only where it earns its keep
+
+---
+
+### 🧩 What I Build
+
+| Area | Examples |
+|---|---|
+| **AI & Automation** | n8n workflows, AI SDR agents, Slack bots, scraping pipelines, MCP servers |
+| **Tracking & Attribution** | Meta CAPI / TikTok Events API, server-side value pipelines, call tracking + DNI, GTM |
+| **Full-Stack Web** | Next.js, Laravel, Django APIs, Supabase-backed dashboards |
+| **Mobile** | Flutter apps with offline-first local storage (Isar / Hive) |
+
+---
+
+### 📌 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**FoCi**](https://github.com/zxcoding123) | Ambient productivity ecosystem | Flutter · Supabase |
+| [**Coffee POS**](https://github.com/zxcoding123) | Offline-first point-of-sale | Flutter · Isar |
+| [**Roastly**](https://github.com/zxcoding123) | _one-line description_ | _stack_ |
+| [**Quinas**](https://github.com/zxcoding123) | _one-line description_ | _stack_ |
+| [**FreeLens**](https://github.com/zxcoding123) | _one-line description_ | _stack_ |
+
+<!-- Replace links with repo URLs and fill in the placeholders. -->
 
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend & Mobile (Modern & Fundamental)**
+**Frontend & Mobile**
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
-**Backend & Automation Orchestration**
+**Backend & Automation**
 <p>
-<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
 </p>
 
-**Databases & Persistence**
+**Data & Persistence**
 <p>
-<img src="https://img.shields.io/badge/Isar-4433FF?style=for-the-badge&logo=databricks&logoColor=white">
-<img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black">
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/NocoDB-3E33FB?style=for-the-badge&logo=nocodb&logoColor=white">
+<img src="https://img.shields.io/badge/NocoDB-1348BA?style=for-the-badge&logo=nocodb&logoColor=white">
+<img src="https://img.shields.io/badge/Isar-4433FF?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=dart&logoColor=black">
 </p>
 
-**Analytics, Tracking & Attribution**
+**Analytics & Attribution**
 <p>
-<img src="https://img.shields.io/badge/Meta_Pixel-0081FB?style=for-the-badge&logo=meta&logoColor=white">
-<img src="https://img.shields.io/badge/TikTok_Pixel-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-<img src="https://img.shields.io/badge/Umami-000000?style=for-the-badge&logo=umami&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/Meta_Pixel_%2B_CAPI-0081FB?style=for-the-badge&logo=meta&logoColor=white">
+<img src="https://img.shields.io/badge/TikTok_Pixel-000?style=for-the-badge&logo=tiktok&logoColor=white">
 <img src="https://img.shields.io/badge/Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white">
+<img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
 <img src="https://img.shields.io/badge/PostHog-F54E00?style=for-the-badge&logo=posthog&logoColor=white">
+<img src="https://img.shields.io/badge/Umami-000?style=for-the-badge&logo=umami&logoColor=white">
 </p>
 
-**Deployment & Infrastructure**
+**Deployment & Infra**
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=zxcoding123&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=zxcoding123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxcoding123&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxcoding123&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-- 🌐 **Portfolio:** [ahmad-new-portfolio.vercel.app](https://ahmad-new-portfolio.vercel.app/)
-- 📧 **Email:** [ahmadaquino.2002@gmail.com](mailto:ahmadaquino.2002@gmail.com)
-- 🤝 **Open for:** Full-stack web development, High-fidelity mobile application Flutter builds, automated SaaS pipelines, and backend system design.
+### 🤝 Open For
+
+Full-stack web builds · Flutter mobile apps · Automation & AI pipelines (n8n, LLM agents) · Tracking/attribution setups · Backend system design
+
+📧 [ahmadaquino.2002@gmail.com](mailto:ahmadaquino.2002@gmail.com) · 🌐 [Portfolio](https://ahmad-new-portfolio.vercel.app/)
 
 <p align="right"><i>Always optimizing.</i></p>
