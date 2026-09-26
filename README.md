@@ -111,9 +111,10 @@ Day to day, I work on **performance marketing infrastructure**: server-side conv
   <img height="165" src="https://streak-stats.demolab.com?user=zxcoding123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxcoding123&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxcoding123/zxcoding123/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/zxcoding123/zxcoding123/output/snake.svg" alt="Contribution snake">
+</picture>
 
 ---
 
