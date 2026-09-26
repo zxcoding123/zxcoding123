@@ -22,7 +22,7 @@ Day to day, I work on **performance marketing infrastructure**: server-side conv
 - 🚀 **Building:** **FoCi**, an ambient productivity ecosystem
 - 🧪 **Founder / side projects:** **Roastly**, **Quinas**, **FreeLens**
 - ☕ **Shipping locally:** an offline-first coffee shop POS in **Flutter + Isar**
-- ⚡ **Approach:** Claude/Gemini + n8n for orchestration; write code only where it earns its keep
+- ⚡ **Approach:** Claude/Gemini/Codex + n8n for orchestration; write code only where it earns its keep
 
 ---
 
