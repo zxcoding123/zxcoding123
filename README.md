@@ -43,9 +43,9 @@ Day to day, I work on **performance marketing infrastructure**: server-side conv
 |---|---|---|
 | [**FoCi**](https://github.com/zxcoding123) | Ambient productivity ecosystem | Flutter · Supabase |
 | [**Coffee POS**](https://github.com/zxcoding123) | Offline-first point-of-sale | Flutter · Isar |
-| [**Roastly**](https://github.com/zxcoding123) | _one-line description_ | _stack_ |
-| [**Quinas**](https://github.com/zxcoding123) | _one-line description_ | _stack_ |
-| [**FreeLens**](https://github.com/zxcoding123) | _one-line description_ | _stack_ |
+| [**Roastly**](https://github.com/zxcoding123) | Offline-first coffee shop POS with local-network device sync | Flutter · Dart · Isar · Hive · Bonsoir (mDNS) · Offline-first |
+| [**Quinas**](https://github.com/zxcoding123) | Modern web system built around clean, scalable UI/UX architecture | Svelte 5 · Tailwind CSS · Vite |
+| [**FreeLens**](https://github.com/zxcoding123) | Full-stack web platform with a typed SvelteKit frontend and Postgres-backed API | SvelteKit · Vite · TypeScript · Tailwind CSS · shadcn-svelte · Lucide · jQuery · Node.js · Express · PostgreSQL |
 
 <!-- Replace links with repo URLs and fill in the placeholders. -->
 
