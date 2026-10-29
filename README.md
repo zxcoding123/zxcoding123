@@ -20,7 +20,7 @@ I build systems that replace manual work: automated backends, AI-driven pipeline
 Day to day, I work on **performance marketing infrastructure**: server-side conversion tracking, call attribution, lead-scoring integrations, and n8n automations that run in production across multiple brands.
 
 - 🚀 **Building:** **FoCi**, an ambient productivity ecosystem
-- 🧪 **Founder / side projects:** **Roastly**, **Quinas**, **FreeLens**
+- 🧪 **Founder / side projects:** **Agenter**, **Roastly**, **Quinas**, **FreeLens**
 - ⚡ **Approach:** Claude/Gemini/Codex + n8n for orchestration; write code only where it earns its keep
 
 ---
@@ -41,6 +41,7 @@ Day to day, I work on **performance marketing infrastructure**: server-side conv
 | Project | What it is | Stack |
 |---|---|---|
 | [**FoCi**](https://foci-page.vercel.app/) | Ambient productivity ecosystem | Flutter · Supabase |
+| [**Agenter**](https://github.com/zxcoding123/agenter_app) | One dashboard to watch, approve, and reply to every Claude Code session on your machine, across all VS Code windows | Node.js · Claude Code hooks · Svelte 5 · Vite |
 | [**Roastly**](https://roastly-pos-project.vercel.app/) | Offline-first coffee shop POS with local-network device sync | Flutter · Dart · Isar · Hive · Bonsoir (mDNS) · Offline-first |
 | [**Quinas**](https://quinas-official.vercel.app/) | Modern web system built around clean, scalable UI/UX architecture | Svelte 5 · Tailwind CSS · Vite |
 | [**FreeLens**](https://freelens.vercel.app/) | Full-stack web platform with a typed SvelteKit frontend and Postgres-backed API | SvelteKit · Vite · TypeScript · Tailwind CSS · shadcn-svelte · Lucide · jQuery · Node.js · Express · PostgreSQL |
